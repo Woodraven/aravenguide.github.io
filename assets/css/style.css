@@ -961,8 +961,8 @@ a:hover {
 }
 
 .work-img {
-  width: 416px;
-  height: 300px;
+  width: auto;
+  height: auto;
   display: block;
   overflow: hidden;
 }
@@ -972,7 +972,7 @@ a:hover {
 }
 
 .work-content {
-  padding: 2rem 3% 1rem 4%;
+  padding: 2rem 6% 1rem 8%;
 }
 
 .work-content .w-more {
